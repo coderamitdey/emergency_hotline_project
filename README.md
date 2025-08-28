@@ -1,20 +1,20 @@
 1.	Difference between getElementById, getElementsByClassName, and querySelector / querySelectorAll
 
 getElementById---
-1)	Selects only one element by its unique id.
+a)	Selects only one element by its unique id.
 getElementsByClassName
-2)	Selects all elements with the given class name.
+b)	Selects all elements with the given class name.
 querySelector
-3)	Selects the first element that matches a CSS selector.
+c)	Selects the first element that matches a CSS selector.
 querySelectorAll
-4)	Selects all elements that match a CSS selector.
+d)	Selects all elements that match a CSS selector.
 
 
 2.	How do you create and insert a new element into the DOM?
 Steps:
-1. Create an element
-2. Add text or attributes 
-3. Insert into DOM
+a) Create an element
+b) Add text or attributes 
+c) Insert into DOM
 
 3.	  What is Event Bubbling and how does it work?
 Bubbling:
