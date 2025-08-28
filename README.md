@@ -19,7 +19,7 @@ Steps:
 3.	  What is Event Bubbling and how does it work?
 Bubbling:
 child → parent → document
-Example: If you click a <button> inside a <div>, the click event first triggers on the <button>, then on the <div>, then on <body>, etc.
+Example: If we click a button inside a div, the click event first triggers on the button, then on the div, then on body etc.
 
 4.	What is Event Delegation in JavaScript? Why is it useful?
 Delegation means parent listens for child events.
